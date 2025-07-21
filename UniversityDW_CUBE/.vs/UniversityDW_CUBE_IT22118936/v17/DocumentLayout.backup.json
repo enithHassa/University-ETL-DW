@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EnithHassa\\Desktop\\DWBI assignment-Enith\\UniversityDW_CUBE_IT22118936\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09C701AD-9B6C-1C0E-06C2-A808FD057F94}|UniversityDW_CUBE_IT22118936\\UniversityDW_CUBE_IT22118936.dwproj|C:\\Users\\EnithHassa\\Desktop\\DWBI assignment-Enith\\UniversityDW_CUBE_IT22118936\\UniversityDW_CUBE_IT22118936\\University Data Source DW Cube.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{09C701AD-9B6C-1C0E-06C2-A808FD057F94}|UniversityDW_CUBE_IT22118936\\UniversityDW_CUBE_IT22118936.dwproj|solutionrelative:UniversityDW_CUBE_IT22118936\\University Data Source DW Cube.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C701AD-9B6C-1C0E-06C2-A808FD057F94}|UniversityDW_CUBE_IT22118936\\UniversityDW_CUBE_IT22118936.dwproj|C:\\Users\\EnithHassa\\Desktop\\DWBI assignment-Enith\\UniversityDW_CUBE_IT22118936\\UniversityDW_CUBE_IT22118936\\University Data Source DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{09C701AD-9B6C-1C0E-06C2-A808FD057F94}|UniversityDW_CUBE_IT22118936\\UniversityDW_CUBE_IT22118936.dwproj|solutionrelative:UniversityDW_CUBE_IT22118936\\University Data Source DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "University Data Source DW Cube.cube [Design]",
+              "DocumentMoniker": "C:\\Users\\EnithHassa\\Desktop\\DWBI assignment-Enith\\UniversityDW_CUBE_IT22118936\\UniversityDW_CUBE_IT22118936\\University Data Source DW Cube.cube",
+              "RelativeDocumentMoniker": "UniversityDW_CUBE_IT22118936\\University Data Source DW Cube.cube",
+              "ToolTip": "C:\\Users\\EnithHassa\\Desktop\\DWBI assignment-Enith\\UniversityDW_CUBE_IT22118936\\UniversityDW_CUBE_IT22118936\\University Data Source DW Cube.cube [Design]",
+              "RelativeToolTip": "UniversityDW_CUBE_IT22118936\\University Data Source DW Cube.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-29T14:31:33.876Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "University Data Source DW.dsv [Design]",
+              "DocumentMoniker": "C:\\Users\\EnithHassa\\Desktop\\DWBI assignment-Enith\\UniversityDW_CUBE_IT22118936\\UniversityDW_CUBE_IT22118936\\University Data Source DW.dsv",
+              "RelativeDocumentMoniker": "UniversityDW_CUBE_IT22118936\\University Data Source DW.dsv",
+              "ToolTip": "C:\\Users\\EnithHassa\\Desktop\\DWBI assignment-Enith\\UniversityDW_CUBE_IT22118936\\UniversityDW_CUBE_IT22118936\\University Data Source DW.dsv [Design]",
+              "RelativeToolTip": "UniversityDW_CUBE_IT22118936\\University Data Source DW.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-29T13:57:55.543Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
