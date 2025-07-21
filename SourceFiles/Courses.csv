@@ -1,0 +1,101 @@
+course_id,course_name,faculty,credit_hours,credits,gender,offered_term,year_offered,delivery_mode
+905,Introduction to Literary Studies,Arts,18,3,Male,semester 1,Year 1,Hybrid
+777,Creative Writing Workshop,Science,22,4,Genderfluid,semester 1,Year 3,Hybrid
+235,Western Civilization,Social Sciences,27,4,Female,semester 1,Year 3,Hybrid
+600,History of Art,Engineering,14,3,Male,semester 2,Year 1,Hybrid
+487,Music Theory,Business,30,4,Male,semester 1,Year 3,Hybrid
+963,Principles of Linguistics,Medicine,23,4,Female,semester 2,Year 2,Hybrid
+215,Introduction to Philosophy,Law,23,2,Male,semester 1,Year 2,Online
+370,Classical Mythology,Agriculture,11,3,Male,semester 1,Year 4,Online
+824,Digital Humanities,Computing,28,4,Female,semester 2,Year 2,Hybrid
+909,Film Studies,Architecture,14,4,Male,semester 1,Year 4,Hybrid
+273,Calculus I,Arts,15,3,Male,semester 2,Year 1,Hybrid
+701,General Chemistry,Science,27,4,Polygender,semester 1,Year 3,Hybrid
+339,Introductory Physics,Social Sciences,22,2,Male,semester 1,Year 2,Online
+761,Principles of Biology,Engineering,28,3,Male,semester 1,Year 2,Hybrid
+877,Linear Algebra,Business,13,2,Female,semester 1,Year 3,Hybrid
+699,Organic Chemistry,Medicine,11,3,Female,semester 1,Year 3,Hybrid
+617,Statistical Methods,Law,25,4,Male,semester 1,Year 3,Hybrid
+903,Ecology and Evolution,Agriculture,20,4,Female,semester 2,Year 2,Hybrid
+634,Molecular Biology,Computing,11,4,Female,semester 1,Year 4,Online
+558,Probability and Statistics,Architecture,18,3,Male,semester 1,Year 2,Hybrid
+485,Introduction to Sociology,Arts,29,2,Genderfluid,semester 1,Year 2,Online
+843,Principles of Economics,Science,25,4,Male,semester 1,Year 4,Hybrid
+834,Political Theory,Social Sciences,11,4,Bigender,semester 2,Year 2,Online
+492,Cognitive Psychology,Engineering,14,3,Male,semester 2,Year 2,Online
+692,Social Anthropology,Business,16,4,Male,semester 1,Year 1,Online
+688,Research Methods in Social Science,Medicine,18,3,Male,semester 2,Year 4,Hybrid
+138,Development Studies,Law,25,3,Male,semester 2,Year 4,Hybrid
+707,International Relations,Agriculture,12,3,Male,semester 2,Year 4,Hybrid
+870,Public Policy,Computing,28,3,Polygender,semester 1,Year 1,Hybrid
+656,Social Psychology,Architecture,19,4,Agender,semester 2,Year 2,Hybrid
+736,Engineering Mathematics I,Arts,16,2,Genderfluid,semester 1,Year 3,Online
+723,Introduction to Programming for Engineers,Science,13,4,Female,semester 2,Year 4,Online
+202,Engineering Mechanics,Social Sciences,17,4,Female,semester 2,Year 3,Hybrid
+848,Circuit Theory,Engineering,22,2,Female,semester 1,Year 4,Hybrid
+568,Thermodynamics,Business,13,4,Female,semester 1,Year 3,Hybrid
+474,Fluid Mechanics,Medicine,27,3,Male,semester 2,Year 2,Hybrid
+642,Materials Science,Law,11,3,Male,semester 1,Year 3,Hybrid
+100,Data Structures and Algorithms,Agriculture,24,3,Male,semester 1,Year 1,Hybrid
+206,Signals and Systems,Computing,10,3,Male,semester 1,Year 1,Hybrid
+860,Engineering Design,Architecture,30,4,Female,semester 1,Year 2,Hybrid
+177,Principles of Management,Arts,15,4,Female,semester 2,Year 1,Hybrid
+489,Financial Accounting,Science,17,3,Female,semester 1,Year 4,Hybrid
+738,Marketing Management,Social Sciences,29,2,Male,semester 2,Year 3,Hybrid
+114,Microeconomics for Business,Engineering,21,3,Male,semester 1,Year 4,Hybrid
+332,Macroeconomics for Business,Business,26,3,Female,semester 1,Year 4,Hybrid
+399,Organizational Behaviour,Medicine,21,3,Male,semester 2,Year 4,Hybrid
+881,Business Law,Law,21,4,Female,semester 1,Year 1,Online
+779,Operations Management,Agriculture,29,4,Male,semester 2,Year 4,Hybrid
+374,Human Resource Management,Computing,27,3,Male,semester 2,Year 3,Hybrid
+776,Business Statistics,Architecture,23,3,Male,semester 1,Year 4,Hybrid
+791,Human Anatomy,Arts,14,2,Male,semester 2,Year 1,Online
+396,Medical Physiology,Science,13,3,Agender,semester 1,Year 2,Hybrid
+475,Biochemistry for Medicine,Social Sciences,13,3,Female,semester 1,Year 4,Hybrid
+436,Pharmacology,Engineering,15,4,Female,semester 1,Year 4,Hybrid
+118,Pathology,Business,20,3,Female,semester 1,Year 1,Online
+792,Microbiology and Immunology,Medicine,19,4,Male,semester 1,Year 3,Hybrid
+348,Clinical Skills,Law,30,3,Female,semester 1,Year 3,Hybrid
+775,Public Health,Agriculture,25,2,Male,semester 2,Year 1,Online
+183,Medical Ethics and Law,Computing,19,4,Male,semester 1,Year 3,Online
+125,Introduction to Clinical Medicine,Architecture,11,3,Male,semester 2,Year 1,Hybrid
+421,Constitutional Law,Arts,11,4,Female,semester 1,Year 4,Hybrid
+813,Criminal Law,Science,16,4,Female,semester 2,Year 4,Hybrid
+167,Contract Law,Social Sciences,18,4,Female,semester 1,Year 2,Online
+514,Tort Law,Engineering,12,3,Female,semester 2,Year 1,Hybrid
+352,Legal Methods,Business,21,4,Female,semester 1,Year 1,Hybrid
+926,Property Law,Medicine,20,4,Genderqueer,semester 2,Year 2,Hybrid
+204,International Law,Law,16,4,Male,semester 2,Year 2,Hybrid
+921,Jurisprudence,Agriculture,14,3,Male,semester 1,Year 2,Online
+850,Administrative Law,Computing,24,3,Male,semester 1,Year 3,Hybrid
+740,Human Rights Law,Architecture,24,3,Polygender,semester 2,Year 2,Hybrid
+450,Principles of Crop Production,Arts,14,4,Female,semester 1,Year 4,Hybrid
+268,Animal Husbandry,Science,12,4,Female,semester 2,Year 1,Hybrid
+986,Soil Science,Social Sciences,29,3,Female,semester 2,Year 2,Hybrid
+925,Agricultural Economics,Engineering,12,4,Male,semester 1,Year 4,Hybrid
+488,Plant Pathology,Business,19,4,Male,semester 2,Year 2,Hybrid
+832,Entomology,Medicine,27,3,Male,semester 1,Year 4,Hybrid
+304,Sustainable Agriculture,Law,23,2,Female,semester 2,Year 2,Hybrid
+901,Food Science and Technology,Agriculture,30,4,Female,semester 2,Year 2,Hybrid
+764,Agricultural Biotechnology,Computing,22,4,Female,semester 2,Year 1,Hybrid
+953,Irrigation and Water Management,Architecture,22,3,Male,semester 1,Year 2,Hybrid
+780,Programming Fundamentals,Arts,20,4,Male,semester 1,Year 4,Hybrid
+395,Database Management Systems,Science,18,4,Male,semester 2,Year 1,Hybrid
+973,Computer Networks,Social Sciences,17,4,Male,semester 1,Year 1,Hybrid
+289,Operating Systems,Engineering,20,4,Female,semester 2,Year 3,Hybrid
+812,Software Engineering,Business,24,4,Female,semester 1,Year 3,Hybrid
+453,Web Development,Medicine,17,3,Male,semester 1,Year 4,Hybrid
+683,Artificial Intelligence,Law,30,4,Female,semester 2,Year 3,Hybrid
+315,Information Security,Agriculture,29,4,Female,semester 2,Year 3,Hybrid
+942,Computer Architecture,Computing,25,4,Female,semester 1,Year 2,Hybrid
+939,Mobile Application Development,Architecture,12,3,Female,semester 2,Year 2,Hybrid
+499,Architectural Design Studio I,Arts,19,4,Female,semester 1,Year 3,Hybrid
+990,History of Architecture,Science,28,4,Male,semester 1,Year 1,Hybrid
+511,Building Technology,Social Sciences,15,4,Male,semester 1,Year 2,Hybrid
+279,Architectural Theory,Engineering,26,4,Non-binary,semester 2,Year 1,Online
+362,Urban Planning,Business,23,3,Female,semester 2,Year 2,Hybrid
+477,Structural Analysis,Medicine,25,4,Female,semester 1,Year 4,Hybrid
+476,Environmental Design,Law,13,4,Male,semester 2,Year 4,Hybrid
+681,Digital Design in Architecture,Agriculture,30,3,Female,semester 2,Year 1,Hybrid
+217,Landscape Architecture,Computing,20,3,Female,semester 1,Year 1,Online
+176,Professional Practice in Architecture,Architecture,22,4,Female,semester 1,Year 4,Hybrid
